@@ -1,0 +1,21 @@
+name: MineralContest
+version: '${project.version}'
+main: fr.mineralcontest.MineralContest
+api-version: 1.19
+authors: [Xelasflame]
+description: Mineral contest de Xelasflame
+commands:
+  start:
+    description: start la partie
+
+  score:
+    description: affiche les scores
+
+
+  stopgame:
+    description: stop la partie en cours
+
+  setlocation:
+    description: set la loc d une team
+  arene:
+    description: teleport a l arene
