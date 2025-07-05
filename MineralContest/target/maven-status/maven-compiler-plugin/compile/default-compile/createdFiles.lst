@@ -1,5 +1,0 @@
-fr\bingo\Bingo.class
-fr\bingo\ItemManager.class
-fr\bingo\events\JoinTeamEvent.class
-fr\bingo\commands\CommandStart.class
-fr\bingo\Start.class
